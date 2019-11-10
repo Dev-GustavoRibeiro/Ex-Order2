@@ -1,4 +1,4 @@
-# Ex-Order2
+# Ex-Ordering2
 Another C# Ordering System Template
 
 Make a program to read N data products (not supplied by the user). At end, show the price tag of each product on the same order as they
